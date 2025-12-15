@@ -5,16 +5,9 @@ Name: BMI Calculator React
 Identifier: bmi-calculator-react
 
 Description:
-
-BMI Calculator Web App built using React and Vite.
-
-Allows users to input weight and height to calculate Body Mass Index (BMI).
-
-Uses React components for modular UI.
-
-Styled with CSS for a clean and responsive design.
-
-Demonstrates state management, event handling, and basic calculations in React.
+BMI Calculator React is a lightweight web application built with React and Vite.
+Users can input their weight and height to calculate their Body Mass Index (BMI) instantly.
+The project demonstrates React component structure, state management, event handling, and responsive UI design.
 
 Source code available on GitHub: https://github.com/RAHUL-creator2005/BMIcalculator-React
 
