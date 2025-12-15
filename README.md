@@ -18,22 +18,14 @@ Demonstrates state management, event handling, and basic calculations in React.
 
 Source code available on GitHub: https://github.com/RAHUL-creator2005/BMIcalculator-React
 
-Homepage (optional):
+Homepage :
 https://github.com/RAHUL-creator2005/BMIcalculator-React
 
 Project status: Active
 
-Visibility: Public / Private (choose based on your team rules)
+Visibility: Public / Private
 
-Modules (optional):
-
-Issue tracking
-
-Repository (if Redmine is linked with GitHub)
-
-Files/Documents (upload screenshots or diagrams)
-
-Tasks / Features (optional):
+Tasks / Features :
 
 Implement BMI calculation logic ✅
 
